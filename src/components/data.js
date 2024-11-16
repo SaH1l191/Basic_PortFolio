@@ -20,7 +20,7 @@ export const portfolioData = {
       title: "FashionFusion",
       description: "Fashion Fusion is a MERN stack-based platform designed to empower fashion store owners by providing an all-in-one solution for managing inventory, staying updated with fashion news, and utilizing AI for news summarization and demand forecasting",
       skills: ["React", "Tailwind", "Node", "Express", "MongoDB"],
-      image: "https://private-user-images.githubusercontent.com/177375696/379424006-c9834afc-7a4a-4b15-bfea-b89870ca2d9d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE2NzQ2MDIsIm5iZiI6MTczMTY3NDMwMiwicGF0aCI6Ii8xNzczNzU2OTYvMzc5NDI0MDA2LWM5ODM0YWZjLTdhNGEtNGIxNS1iZmVhLWI4OTg3MGNhMmQ5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExNVQxMjM4MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMmQxZTUzNmUyZTdmNDk2M2RhNjI4YTMyODEwYTliMzE1Njc4MjAxZjg3ZDU0NDJmODgyYTY1MjU4NmYxOGRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aU8FdZrFXtj2jLDcVk3aORiC3Nvil1P8didQNvWlgNQ",
+      image: "https://i.ibb.co/J3Xp6Sy/image.png",
       projectNumber: "02",
       link: "https://github.com/SaH1l191/FashionFusion"
     },
