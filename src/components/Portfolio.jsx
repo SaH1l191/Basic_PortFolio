@@ -64,7 +64,7 @@ export default function Portfolio({
                 }}
                 className="absolute top-0 right-60"
               >
-                <img src="/dots.png" className='select-none' alt="Dots" width={50} height={50} />
+                <img src="./dots.png" className='select-none' alt="Dots" width={50} height={50} />
               </motion.div>
               <motion.div
                 animate={{
@@ -73,7 +73,7 @@ export default function Portfolio({
                 }}
                 className="absolute bottom-0 left-0  select-none  "
               >
-                <img src="/circle.png" alt="Circle" width={50} height={50} />
+                <img src="./circle.png" alt="Circle" width={50} height={50} />
               </motion.div>
               <motion.div
                 animate={{
@@ -82,7 +82,7 @@ export default function Portfolio({
                 }}
                 className="absolute top-1/2 right-3/4 transform -translate-x-1/2 -translate-y-1/2"
               >
-                <img src="/cube.png" className='select-none' alt="Cube" width={50} height={50} />
+                <img src="./cube.png" className='select-none' alt="Cube" width={50} height={50} />
               </motion.div>
               <motion.div
                 animate={{
@@ -91,7 +91,7 @@ export default function Portfolio({
                 }}
                 className="absolute bottom-1/4 right-1/4"
               >
-                <img src="/zigzags.png" className='select-none' alt="Zigzag" width={50} height={50} />
+                <img src="./zigzags.png" className='select-none' alt="Zigzag" width={50} height={50} />
               </motion.div>
               <motion.div
                 animate={{

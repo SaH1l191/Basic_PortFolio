@@ -73,7 +73,7 @@ export default function App() {
                   <div className="relative  w-48 h-12 select-none">
                     <img
                      
-                      src="/s.svg"  // This will look for s.svg in the public folder
+                      src="./s.svg"  // This will look for s.svg in the public folder
                       alt="Profile"
                       width="128"  // Setting the size directly
                       height="128"  // Setting the size directly
